@@ -1,4 +1,4 @@
-## React Tutorial from Scratch– A Step-by-Step Guide (2021 Update)
+## React Todo App
 
 This repo holds all the code for a React todos application. You can follow the step by step [guide to building the awesome project here](https://ibaslogic.com/react-tutorial-for-beginners/).
 
